@@ -1,9 +1,9 @@
 class DwarfFortress < Formula
   desc "Open-ended rogelike game"
   homepage "http://bay12games.com/dwarves/"
-  url "http://bay12games.com/dwarves/df_42_02_osx.tar.bz2"
-  version "0.42.02"
-  sha256 "563f242af8403d7a100111ea924d26313a41287ea6c9a1b3cc29b1975934766e"
+  url "http://bay12games.com/dwarves/df_42_05_osx.tar.bz2"
+  version "0.42.05"
+  sha256 "6f89f40448ba28c7b0939bbb0a7e7339664eb305fcc16c08de19dbcb1a550121"
 
   depends_on :arch => :intel
   depends_on :x11
